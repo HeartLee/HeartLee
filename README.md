@@ -5,7 +5,7 @@
 
 ## 2022.10-2022.11
 
-- [ ] typescript & midway
+- [ ] :boom: table-tanstack
 - [ ] :construction: 工程化
 - [ ] antd-table-header
 - [ ] :zap: 减肥15斤 :zap:
